@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Snake Game</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<main>
+  <section>
+
+    <div class="infos">
+      <div class="info">High Score : <span id="highScore">0</span></div>
+      <div class="info">Score : <span id="score">0</span></div>
+      <div class="info">Time : <span id="time">00:00</span></div>
+    </div>
+
+    <div class="board">
+      <canvas id="gameCanvas"></canvas>
+
+      
+      <div class="fps" id="fps">FPS: 120</div>
+    </div>
+
+  </section>
+</main>
+
+
+<div class="overlay" id="overlay">
+  <div class="modal">
+    <h1>Game Over</h1>
+    <p>Score: <span id="finalScore"></span></p>
+    <p>High Score: <span id="finalHighScore"></span></p>
+    <p>Time: <span id="finalTime"></span></p>
+    <button id="retryBtn">Retry</button>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
