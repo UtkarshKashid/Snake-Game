@@ -49,10 +49,10 @@ https://utkarshkashid.github.io/Snake-Game/
 
 ## 📸 Screenshots
 
-### 🔹 Initial Screen
+### 🔹 Actual Game
 ![Game](./screenshots/Game.png)
 
-### 🔹 Generated QR Code
+### 🔹 Game Over Popup
 ![Game Over Popup](./screenshots/Game-over.png)
 
 ---
