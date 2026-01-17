@@ -50,6 +50,7 @@ When the game ends, a popup displays the final score, high score, and time playe
 ## 🌐 Live Demo
 
 **Publish URL:** 
+https://utkarshkashid.github.io/Snake-Game/
 
 ---
 
