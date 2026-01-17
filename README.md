@@ -34,19 +34,6 @@ When the game ends, a popup displays the final score, high score, and time playe
 
 ---
 
-## 🎮 Features
-
-- 🎯 Smooth and playable snake movement  
-- ⌨️ Controls using **Arrow keys + WASD**  
-- 🍎 Apple-based scoring system  
-- 📈 Real-time FPS counter (drops when snake turns)  
-- ⏱ Game timer (stops on game over)  
-- 🪟 Animated Game Over popup with retry button  
-- 💾 High score saved using LocalStorage  
-- 📱 Responsive game board  
-
----
-
 ## 🌐 Live Demo
 
 **Publish URL:** 
@@ -54,11 +41,31 @@ https://utkarshkashid.github.io/Snake-Game/
 
 ---
 
+## 🎮 Features
+
+🎯 Smooth and playable snake movement  
+⌨️ Controls using **Arrow keys + WASD**  
+🍎 Apple-based scoring system  
+📈 Real-time FPS counter (drops when snake turns)  
+⏱ Game timer (stops on game over)  
+🪟 Animated Game Over popup with retry button  
+💾 High score saved using LocalStorage  
+📱 Responsive game board  
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Initial Screen
+![Game](./screenshots/Game.png)
+
+### 🔹 Generated QR Code
+![Game Over Popup](./screenshots/Game-over.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Utkarsh Kashid**  
 Feel free to fork, modify, and enhance this project.
-
----
-
-⭐ If you like this project, don’t forget to star the repository!
+If you like this project, don’t forget to star the repository!✨
